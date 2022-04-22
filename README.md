@@ -1,5 +1,7 @@
 # MDB-TownOfUs-Branch-Releases
 
+A collection of releases for my Town Of Us Reactivated Fork
+
 ### Eraser
 Adds an alternative assassin ability called eraser
 it erases modifiers rather than killing in meetings
